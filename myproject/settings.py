@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'myproject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
+        'NAME': 'Tepy',
         'USER': 'masteruser',
         'PASSWORD': '12345678',
         'HOST': 'tepy.cr7snphxso5f.us-east-1.rds.amazonaws.com',        
